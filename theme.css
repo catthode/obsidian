@@ -24,6 +24,12 @@ body {
     --cyan: #aee6d6;
     --blue: #9cd9e6;
     --purple: #eba4be;
+
+    /* Obsidian Accent Overrides (Amber #ff9e3b) */
+    /* HSL: 30, 100%, 62% */
+    --accent-h: 30;
+    --accent-s: 100%;
+    --accent-l: 62%;
 }
 
 .theme-dark {
