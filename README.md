@@ -59,8 +59,8 @@ To install manually, run the following commands from the root of your Obsidian V
 mkdir -p .obsidian/themes/Catthode
 
 # Download the theme files
-wget -O .obsidian/themes/Catthode/theme.css https://raw.githubusercontent.com/catthode/obsidian/main/theme.css
-wget -O .obsidian/themes/Catthode/manifest.json https://raw.githubusercontent.com/catthode/obsidian/main/manifest.json
+curl -o .obsidian/themes/Catthode/theme.css https://raw.githubusercontent.com/catthode/obsidian/main/theme.css
+curl -o .obsidian/themes/Catthode/manifest.json https://raw.githubusercontent.com/catthode/obsidian/main/manifest.json
 ```
 
 After running these commands:
