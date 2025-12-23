@@ -5,5 +5,8 @@
   "author": "Catthode",
   "authorUrl": "https://cattho.de",
   "fundingUrl": "https://github.com/catthode",
-  "description": "From CRT to OLED. Bringing warmth back to a world of cold themes."
+  "description": "From CRT to OLED. Bringing warmth back to a world of cold themes.",
+  "modes": [
+    "dark"
+  ]
 }

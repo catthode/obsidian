@@ -1,4 +1,4 @@
-body {
+.theme-dark {
     /* Surface */
     --base: #000000;
     --sidebar: #141414;
@@ -30,15 +30,14 @@ body {
     --accent-h: 30;
     --accent-s: 100%;
     --accent-l: 62%;
-}
 
-.theme-dark {
     /* UI Backgrounds */
     --background-primary: var(--base);
     --background-primary-alt: var(--sidebar);
     --background-secondary: var(--sidebar);
     --background-secondary-alt: var(--base);
     --background-modifier-border: var(--border);
+    --background-modifier-border-focus: var(--amber);
     --background-modifier-form-field: var(--sidebar);
     --background-modifier-form-field-highlighted: var(--selection);
 
@@ -90,9 +89,16 @@ body {
     --tab-text-color-focused-active: var(--text);
     --tab-text-color-focused-highlighted: var(--text);
     --tab-text-color-focused-active-current: var(--text);
+    --tab-background-active: var(--base);
     
     /* Scrollbar */
     --scrollbar-active-thumb-bg: var(--border);
     --scrollbar-bg: transparent;
     --scrollbar-thumb-bg: var(--selection);
+
+    /* Title bar & Status bar */
+    --titlebar-background: var(--sidebar);
+    --titlebar-background-focused: var(--sidebar);
+    --status-bar-background: var(--sidebar);
+    --status-bar-border: var(--border);
 }
