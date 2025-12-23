@@ -1,8 +1,20 @@
 # Catthode for Obsidian
 
+<p align="center">
+  <img src="screenshot.png" alt="Catthode Obsidian Screenshot" width="600" />
+</p>
+
 > **From CRT to OLED.** Bringing warmth back to a world of cold themes. [cattho.de](https://cattho.de/)
 
 Catthode is a high-contrast, retro-futuristic theme designed for prolonged writing sessions. It blends the crushed blacks of modern OLED displays with the comforting, warm glow of analog tungsten filaments.
+
+## ✨ Preview
+
+<p align="center">
+  <img src="assets/screenshot-2.png" alt="Preview 2" width="400" />
+  <img src="assets/screenshot-3.png" alt="Preview 3" width="400" />
+  <img src="assets/screenshot-4.png" alt="Preview 4" width="400" />
+</p>
 
 ## 🎨 Color Palette
 
